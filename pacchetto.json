@@ -1,0 +1,8 @@
+{
+"name": "off-white", 
+"version": "1.0.0", 
+"description": " My First Discordian Bot ", 
+" main ":" bot.js ", 
+" Author ":"Alex ", 
+" Dipendenze ": {} 
+}
